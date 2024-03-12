@@ -59,7 +59,11 @@ if __name__ == '__main__':
     q_table = np.load(file="results/app_q_table.npy")
 
     # Create a new game instance.
-    env = gym.make('MountainCar-v0')
+    #env = gym.make('MountainCar-v0')
+    env = gym.make('MountainCar-v0', render_mode='human')
+    #env = gym.make('MountainCar-v0', render_mode='rgb_array')
+
+
     n_episode = 10 # test the agent 10times
     scores = []
 
