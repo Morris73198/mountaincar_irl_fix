@@ -1,0 +1,39 @@
+# packages in environment at /home/morris/ldirl/irl_test:
+#
+# Name                    Version                   Build  Channel
+_libgcc_mutex             0.1                        main  
+_openmp_mutex             5.1                       1_gnu  
+ca-certificates           2023.12.12           h06a4308_0  
+clarabel                  0.7.1                    pypi_0    pypi
+contourpy                 1.1.1                    pypi_0    pypi
+cvxpy                     1.4.2                    pypi_0    pypi
+cycler                    0.12.1                   pypi_0    pypi
+ecos                      2.0.13                   pypi_0    pypi
+fonttools                 4.49.0                   pypi_0    pypi
+gym                       0.26.2                   pypi_0    pypi
+kiwisolver                1.4.5                    pypi_0    pypi
+ld_impl_linux-64          2.38                 h1181459_1  
+libffi                    3.4.4                h6a678d5_0  
+libgcc-ng                 11.2.0               h1234567_1  
+libgomp                   11.2.0               h1234567_1  
+libstdcxx-ng              11.2.0               h1234567_1  
+matplotlib                3.7.5                    pypi_0    pypi
+ncurses                   6.4                  h6a678d5_0  
+openssl                   3.0.13               h7f8727e_0  
+osqp                      0.6.5                    pypi_0    pypi
+packaging                 24.0                     pypi_0    pypi
+pip                       23.3.1           py38h06a4308_0  
+pybind11                  2.11.1                   pypi_0    pypi
+pyparsing                 3.1.2                    pypi_0    pypi
+python                    3.8.18               h955ad1f_0  
+python-dateutil           2.9.0.post0              pypi_0    pypi
+qdldl                     0.1.7.post0              pypi_0    pypi
+readline                  8.2                  h5eee18b_0  
+scs                       3.2.4.post1              pypi_0    pypi
+setuptools                68.2.2           py38h06a4308_0  
+six                       1.16.0                   pypi_0    pypi
+sqlite                    3.41.2               h5eee18b_0  
+tk                        8.6.12               h1ccaba5_0  
+wheel                     0.41.2           py38h06a4308_0  
+xz                        5.4.6                h5eee18b_0  
+zlib                      1.2.13               h5eee18b_0  
