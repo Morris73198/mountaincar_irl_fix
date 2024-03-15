@@ -42,7 +42,7 @@ def calc_feature_expectation(feature_num, gamma, q_table, demonstrations, env):
 
             state_idx = idx_state(env, state)
             action = np.argmax(q_table[state_idx])
-            next_state, reward, done, _ , _= env.step(action)
+            next_state, reward, done, _ = env.step(action)
             
             features = feature_estimate.get_features(next_state)
             feature_expectations += (gamma**(demo_length)) * np.array(features)
